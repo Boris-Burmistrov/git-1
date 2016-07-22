@@ -1,2 +1,4 @@
-print('first')
-print(1)
+print('first;')
+print(1;)
+print("Hello my dear;")
+print("look at him;")
